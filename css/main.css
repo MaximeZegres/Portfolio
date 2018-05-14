@@ -62,8 +62,11 @@ footer {
 }
 
 .card {
-	margin: 5px;
-	border: solid 
+	margin: 5px; 
+}
+
+.card-img-top {
+	padding: 5%;
 }
 
 .list-inline-item {
